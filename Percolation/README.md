@@ -1,13 +1,13 @@
 
-========================================Header=========================================
+#Info Header
 
-  Course:   Algorithms, Part I @ Princeton University on Cousera
+Course:   Algorithms, Part I @ Princeton University on Cousera
+  
+By:       Kevin Wayne, Robert Sedgewick
 
-  By:       Kevin Wayne, Robert Sedgewick
+Coder:    Heng-Yi Lin (Henry Lin) -> site: http://hyl.tech
 
-  Coder:    Heng-Yi Lin (Henry Lin) -> site: http://hyl.tech
-
-========================Programming Assignment 1 - Percolation===========================
+Programming Assignment 1 - Percolation
 
 #Percolation.java
 
@@ -56,7 +56,7 @@ The constructor should throw a java.lang.IllegalArgumentException if either N â‰
 Also, include a main() method that takes two command-line arguments N and T, performs T independent computational experiments (discussed above) on an N-by-N grid, and prints the mean, standard deviation, and the 95% confidence interval for the percolation threshold. Use StdRandom to generate random numbers; use StdStats to compute the sample mean and standard deviation.
 
 
-=======================================Reference=======================================
+#Reference
 
 Specificaiton:    http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
 
