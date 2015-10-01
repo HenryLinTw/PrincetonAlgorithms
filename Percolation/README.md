@@ -1,11 +1,11 @@
 
-==============================================Header================================================
+========================================Header===========================================
 
   Course:   Algorithms, Part I @ Princeton University on Cousera
   By:       Kevin Wayne, Robert Sedgewick
   Coder:    Heng-Yi Lin (Henry Lin) -> site: http://hyl.tech
 
-==============================Programming Assignment 1 - Percolation================================
+========================Programming Assignment 1 - Percolation===========================
 
 #Percolation.java
 
@@ -49,5 +49,7 @@ Also, include a main() method that takes two command-line arguments N and T, per
 =======================================Reference=======================================
 
 Specificaiton:    http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
+
 Checklist:        http://coursera.cs.princeton.edu/algs4/checklists/percolation.html
+
 Assessment Guide: https://class.coursera.org/algs4partI-009/wiki/view?page=Assessments
