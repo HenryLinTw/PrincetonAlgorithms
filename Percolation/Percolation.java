@@ -10,10 +10,10 @@
  *  Data Type "Percolation" for modeling percolation systems
  *  
  *  Constructor: 	Percolation(int N) init a N*N grid model
- *	Method:			open(int i, int j) open site(row,column)
- *					isOpen(int i, int j) check if site(row,column) is open
- *					isFull(int i, int j) check if site(row,column) is full
- *					percolates() check if the grid percolates
+ *	Method:		open(int i, int j) open site(row,column)
+ *			isOpen(int i, int j) check if site(row,column) is open
+ *			isFull(int i, int j) check if site(row,column) is full
+ *			percolates() check if the grid percolates
  ******************************************************************************/
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
