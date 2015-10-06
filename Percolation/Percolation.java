@@ -18,10 +18,10 @@
 import edu.princeton.cs.algs4.WeightedQuickUnionUF;
 
 public class Percolation {
-	private int N; // grid length
-	private WeightedQuickUnionUF grid;  // WeightedQuickUnionUF object as N*N grid
-	private WeightedQuickUnionUF bwUF;  // WeightedQuickUnionUF object as N*N grid for backwash bug
-	private boolean[] siteState;  // siteState[i] = block(false)/open(true) state of site i
+    private int N; // grid length
+    private WeightedQuickUnionUF grid;  // WeightedQuickUnionUF object as N*N grid
+    private WeightedQuickUnionUF bwUF;  // WeightedQuickUnionUF object as N*N grid for backwash bug
+    private boolean[] siteState;  // siteState[i] = block(false)/open(true) state of site i
     private int vTop; // virtual top
     private int vBot; // virtual bot
     
