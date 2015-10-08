@@ -1,4 +1,4 @@
-/**************************************************************************************
+/*****************************************************************************************************************************
  *  Author:        Heng-Yi Lin (Henry)
  *  Written:       Oct 7, 2015
  *  Last updated:  Oct 7, 2015
@@ -10,15 +10,15 @@
  *  chosen uniformly at random from items in the data structure. Create a generic data 
  *  type RandomizedQueue that implements the following API:
  *  
- *  Constructor:    public RandomizedQueue() 			     // construct an empty randomized queue	
- *	Method:			public boolean isEmpty()                 // is the queue empty?
- * 					public int size()                        // return the number of items on the queue
- *					public void enqueue(Item item)           // add the item
- *					public Item dequeue()                    // remove and return a random item
- *					public Item sample()                     // return (but do not remove) a random item
- *					public Iterator<Item> iterator()         // return an independent iterator over items in random order
- *					public static void main(String[] args)   // unit testing
- **************************************************************************************/
+ *  Constructor:    public RandomizedQueue() 		     // construct an empty randomized queue	
+ *	Method:	    public boolean isEmpty()                 // is the queue empty?
+ *     		    public int size()                        // return the number of items on the queue
+ *		    public void enqueue(Item item)           // add the item
+ *		    public Item dequeue()                    // remove and return a random item
+ *		    public Item sample()                     // return (but do not remove) a random item
+ *		    public Iterator<Item> iterator()         // return an independent iterator over items in random order
+ *		    public static void main(String[] args)   // unit testing
+ *****************************************************************************************************************************/
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
