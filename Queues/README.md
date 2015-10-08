@@ -91,8 +91,8 @@ The running time of Subset must be linear in the size of the input. You may use 
 
 #Reference
 
-Specificaiton:    http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
+Specificaiton:    http://coursera.cs.princeton.edu/algs4/assignments/queues.html
 
-Checklist:        http://coursera.cs.princeton.edu/algs4/checklists/percolation.html
+Checklist:        http://coursera.cs.princeton.edu/algs4/checklists/queues.html
 
 Assessment Guide: https://class.coursera.org/algs4partI-009/wiki/view?page=Assessments
