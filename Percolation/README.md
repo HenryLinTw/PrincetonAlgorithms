@@ -55,6 +55,18 @@ The constructor should throw a java.lang.IllegalArgumentException if either N â‰
 
 Also, include a main() method that takes two command-line arguments N and T, performs T independent computational experiments (discussed above) on an N-by-N grid, and prints the mean, standard deviation, and the 95% confidence interval for the percolation threshold. Use StdRandom to generate random numbers; use StdStats to compute the sample mean and standard deviation.
 
+#Assessment Summary
+
+    Compilation:  PASSED
+    Style:        FAILED
+    Findbugs:     No potential bugs found.
+    API:          PASSED
+
+    Correctness:  26/26 tests passed
+    Memory:       8/8 tests passed
+    Timing:       9/9 tests passed
+
+    Aggregate score: 100.00% [Correctness: 65%, Memory: 10%, Timing: 25%, Style: 0%]
 
 #Reference
 
