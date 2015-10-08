@@ -58,7 +58,7 @@ Also, include a main() method that takes two command-line arguments N and T, per
 #Assessment Summary
 
     Compilation:  PASSED
-    Style:        FAILED
+    Style:        FAILED (Free to ignore)
     Findbugs:     No potential bugs found.
     API:          PASSED
 
