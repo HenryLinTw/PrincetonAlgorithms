@@ -5,7 +5,7 @@
   
 **By:       Kevin Wayne, Robert Sedgewick**
 
-**Coder:    Heng-Yi Lin (Henry Lin)     [Personal Site](http://hyl.tech)**
+**Coder:    Heng-Yi Lin (Henry Lin)**     [Personal Site](http://hyl.tech)
 
 **Programming Assignment 1 - Percolation**
 
