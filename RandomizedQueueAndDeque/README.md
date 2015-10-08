@@ -2,8 +2,11 @@
 #Info Header
 
 **Course:   Algorithms, Part I @ Princeton University on Cousera**
+
 **By:       Kevin Wayne, Robert Sedgewick**
+
 **Coder:    [Heng-Yi Lin (Henry Lin)](http://hyl.tech)**
+
 **Programming Assignment 2 - Randomized Queues and Deques**
 
 #Assessment Summary
