@@ -38,11 +38,11 @@ A double-ended queue or deque (pronounced "deck") is a generalization of a stack
       public static void main(String[] args)   // unit testing
     }
     
-**Corner cases. **
+**Corner cases.**
 
 Throw a java.lang.NullPointerException if the client attempts to add a null item; throw a java.util.NoSuchElementException if the client attempts to remove an item from an empty deque; throw a java.lang.UnsupportedOperationException if the client calls the remove() method in the iterator; throw a java.util.NoSuchElementException if the client calls the next() method in the iterator and there are no more items to return.
 
-**Performance requirements. ** 
+**Performance requirements.** 
 
 Your deque implementation must support each deque operation in constant worst-case time. A deque containing N items must use at most 48N + 192 bytes of memory. and use space proportional to the number of items currently in the deque. Additionally, your iterator implementation must support each operation (including construction) in constant worst-case time.
 
@@ -61,11 +61,11 @@ A randomized queue is similar to a stack or queue, except that the item removed 
       public static void main(String[] args)   // unit testing
     }
     
-**Corner cases. **
+**Corner cases.**
 
 The order of two or more iterators to the same randomized queue must be mutually independent; each iterator must maintain its own random order. Throw a java.lang.NullPointerException if the client attempts to add a null item; throw a java.util.NoSuchElementException if the client attempts to sample or dequeue an item from an empty randomized queue; throw a java.lang.UnsupportedOperationException if the client calls the remove() method in the iterator; throw a java.util.NoSuchElementException if the client calls the next() method in the iterator and there are no more items to return.
 
-**Performance requirements. **
+**Performance requirements.**
 
 Your randomized queue implementation must support each randomized queue operation (besides creating an iterator) in constant amortized time. That is, any sequence of M randomized queue operations (starting from an empty queue) should take at most cM steps in the worst case, for some constant c. A randomized queue containing N items must use at most 48N + 192 bytes of memory. Additionally, your iterator implementation must support operations next() and hasNext() in constant worst-case time; and construction in linear time; you may (and will need to) use a linear amount of extra memory per iterator.
 
